@@ -2,7 +2,7 @@
 "Report: *Project 6 -* **Pasture and Forest**"
 ==============
 
-**Author:***Nguyễn Đăng Minh -- M23.ICT.008*
+**Author:** *Nguyễn Đăng Minh -- M23.ICT.008*
 
 # Introduction
 
