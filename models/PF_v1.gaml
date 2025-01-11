@@ -43,7 +43,7 @@ global
 {
 	int grid_size <- 50; 
 	float forest_cover <- 0.3;
-	int nb_herds <- 20;
+	int nb_herds <- 15;
 	float perception_range <- 4.5#m;
 	float min_spread <- 0.0025;
 	float max_spread <- 0.02;
