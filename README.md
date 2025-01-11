@@ -1,8 +1,8 @@
----
-title: "Report: *Project 6 -* **Pasture and Forest**"
----
 
-*Nguyễn Đăng Minh -- M23.ICT.008*
+"Report: *Project 6 -* **Pasture and Forest**"
+==============
+
+**Author:***Nguyễn Đăng Minh -- M23.ICT.008*
 
 # Introduction
 
@@ -33,7 +33,8 @@ pastureland.
   shepherds that is required to maintain a sustainable forest cover and
   prevent total deforestation.
 
-# ![A green grid with black dots Description automatically generated](media/image1.png){width="2.45in" height="2.4402777777777778in"}Agents
+# Agents 
+![A green grid with black dots Description automatically generated](media/image1.png)
 
 For this simulation model, we defined 2 agents to simulate this topic.
 
