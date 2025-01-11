@@ -52,15 +52,13 @@ calculated as a function of the number of neighboring forest cells and
 the range defined by **max_spread** and **min_spread**:
 
 ![A black and white text Description automatically
-generated](media/image2.png){width="4.163163823272091in"
-height="0.46257327209098864in"}
+generated](media/image2.png)
 
 N~forest~​ is the count of shared-edge neighboring cells that are
 currently forested.
 
 ![A screenshot of a video game Description automatically
-generated](media/image3.png){width="2.0555555555555554in"
-height="1.9375in"}
+generated](media/image3.png)
 
 ## Herd dynamics
 
@@ -86,8 +84,7 @@ To fully simulate a grazing season, we track the passage of both months
 and seasons. This time-tracking mechanism enables us to update reflexes
 more slowly based on changes in month and season, allowing for a more
 realistic simulation of seasonal dynamics in the grazing
-process.![](media/image4.png){width="6.157109580052493in"
-height="0.5938331146106737in"}
+process.![](media/image4.png)
 
 Figure 3: Dashboard to keep track of cycles, seasons and months.
 
@@ -105,8 +102,7 @@ by a **regen_rate**, but capped at a maximum value of 1.0 to prevent it
 from growing indefinitely.
 
 ![A green background with black hexagons Description automatically
-generated](media/image5.png){width="4.37392716535433in"
-height="3.1191852580927386in"}
+generated](media/image5.png)
 
 Figure 4: Different density for different groves.
 
@@ -146,8 +142,7 @@ season, virtual cues are added to the simulation:
   range of the shepherds during each month.
 
 ![A screenshot of a video game Description automatically
-generated](media/image6.png){width="3.7905074365704285in"
-height="3.62996719160105in"}
+generated](media/image6.png)
 
 Figure 5: Black Perception range indicate herds have no regulation in
 protecting forest.
@@ -179,8 +174,7 @@ Herds are **prohibited** from grazing on any grove where the density
 falls below this threshold.
 
 ![A green and yellow background with a red line Description
-automatically generated](media/image7.png){width="4.261011592300962in"
-height="2.073206474190726in"}
+automatically generated](media/image7.png)
 
 Figure 6 : Yellow Perception range indicate herds follow its own
 **self-authorized minimum size**.
@@ -204,8 +198,7 @@ At the end of each grazing season, the Forest Department determines an
   as **"protected"** for the upcoming grazing season.
 
 ![A screenshot of a game Description automatically
-generated](media/image8.png){width="2.3593897637795274in"
-height="2.0663451443569554in"}
+generated](media/image8.png)
 
 Figure 7: Red grove indicate that grove is protected in this grazing
 season.
@@ -230,8 +223,7 @@ probability parameter:
     **self-authorized minimum size**. (The last extension)
 
 ![A screenshot of a video game Description automatically
-generated](media/image9.png){width="3.181493875765529in"
-height="2.975126859142607in"}
+generated](media/image9.png)
 
 Figure 8. Orange Perception range indicate herds avoid protected groves.
 
@@ -303,8 +295,7 @@ For each experiment we have a GUI version and the batch version.
 GUI have the display of the simulation and 2 chart track the percentage
 of grid cells covered by grove and the total density of the forest in
 pie chart and time series chart. ![A screenshot of a computer
-Description automatically generated](media/image10.png){width="6.5in"
-height="4.108333333333333in"}
+Description automatically generated](media/image10.png)
 
 Figure 9. GUI simulations
 
@@ -333,8 +324,7 @@ forest cover
 and biomass.
 
 ![A graph with blue bars Description automatically generated with medium
-confidence](media/image11.png){width="6.5in"
-height="3.613888888888889in"}
+confidence](media/image11.png)
 
 Figure 10. Chart showing the season that when the percentage of groves
 dropped to **0.0**
@@ -343,8 +333,7 @@ On average, if all shepherds were to enter the forest without any
 regulation, the whole forest would be destroyed at season 10.42.
 
 ![A screenshot of a computer Description automatically
-generated](media/image12.png){width="6.5in"
-height="4.020833333333333in"}
+generated](media/image12.png)
 
 Figure 11. Total deforestation
 
@@ -372,15 +361,13 @@ deforestation and an inability to achieve sustainability.
 - Despite some groves persisting, all simulations concluded with false
   sustainability, indicating that self-regulation alone is insufficient
   for long-term forest preservation. ![A screenshot of a graph
-  Description automatically generated](media/image13.png){width="6.5in"
-  height="3.0375in"}
+  Description automatically generated](media/image13.png)
 
 Figure 12. This shows the percentage of grove in the forest, and compare
 to the sustainable line 0.3
 
 ![A screenshot of a computer screen Description automatically
-generated](media/image14.png){width="6.5in"
-height="4.152083333333334in"}
+generated](media/image14.png)
 
 Figure 13. There is a little bit of groves left\...
 
@@ -409,14 +396,12 @@ sustainability and overall ecosystem health.
   regeneration.
 
 ![A graph of a growing graph Description automatically generated with
-medium confidence](media/image15.png){width="5.772828083989501in"
-height="2.8469411636045496in"}
+medium confidence](media/image15.png)
 
 Figure 14. Most simulations achieve sustainability.
 
 ![A screenshot of a computer screen Description automatically
-generated](media/image16.png){width="5.829666447944007in"
-height="3.5544772528433946in"}
+generated](media/image16.png)
 
 Figure 15. Achieve sustainability.
 
@@ -448,8 +433,7 @@ sustainability, we observe the following:
   sustainability.
 
 ![A graph with blue and orange bars Description automatically
-generated](media/image17.png){width="4.4882469378827645in"
-height="3.948794838145232in"}
+generated](media/image17.png)
 
 Figure 16. Average Percentage of groves by Respectful Rate
 
